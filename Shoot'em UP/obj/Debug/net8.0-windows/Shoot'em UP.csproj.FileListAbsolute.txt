@@ -26,3 +26,6 @@ E:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\obj\Debug\net8.0-windows\Shoot'em UP.pdb
 E:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\obj\Debug\net8.0-windows\Shoot'em UP.genruntimeconfig.cache
 E:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\obj\Debug\net8.0-windows\ref\Shoot'em UP.dll
 E:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\Content\goofya.xnb
+E:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\Content\mainPlayer.xnb
+E:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\Content\MainCara.xnb
+E:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\Content\Ennemie.xnb
