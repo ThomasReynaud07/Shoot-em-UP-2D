@@ -29,3 +29,4 @@ E:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\Content\goofya.xnb
 E:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\Content\mainPlayer.xnb
 E:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\Content\MainCara.xnb
 E:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\Content\Ennemie.xnb
+E:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\Content\background.xnb

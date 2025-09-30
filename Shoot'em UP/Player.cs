@@ -20,6 +20,8 @@ namespace Shoot_em_UP
         
         private Texture2D _texture;
 
+        private MouseState _mouseState;
+
         private GraphicsDevice _graphicsDevice;
         private ContentManager _content;
 
@@ -35,19 +37,27 @@ namespace Shoot_em_UP
         public void Update()
         {
             KeyboardState state = Keyboard.GetState();
-            if (state.IsKeyDown(Keys.Right))
+            if (state.IsKeyDown(Keys.D))
                 _position.X += 7;
-            if (state.IsKeyDown(Keys.Left))
+            if (state.IsKeyDown(Keys.A))
                 _position.X -= 7;
         }
 
         public void Draw(SpriteBatch spriteBatch)
         {
             Rectangle player = new Rectangle((int)_position.X, (int)_position.Y, 150, 200);
-            spriteBatch.Begin();
             spriteBatch.Draw(_texture, player, Color.White);
-            spriteBatch.End();
+            
         }
-        
+        public void Shoot(GameTime gameTime)
+        {
+            _mouseState = Mouse.GetState();
+            if(_mouseState.RightButton == ButtonState.Pressed)
+            {
+
+            }
+
+
+        }
     }
 }

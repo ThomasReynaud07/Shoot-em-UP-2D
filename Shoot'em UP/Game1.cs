@@ -11,6 +11,7 @@ namespace Shoot_em_UP
         Vector2 position = new Vector2(100, 100);
         Player Player;
         Ennemi Ennemi;
+        Texture2D background;
 
         public Game1()
         {
@@ -31,11 +32,11 @@ namespace Shoot_em_UP
             base.Initialize();
         }
 
-        Texture2D goofya;
-
         protected override void LoadContent()
         {
             _spriteBatch = new SpriteBatch(GraphicsDevice);
+            background = Content.Load<Texture2D>("background");
+            
         }
 
         protected override void Update(GameTime gameTime)
@@ -52,9 +53,10 @@ namespace Shoot_em_UP
 
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.CornflowerBlue);
+            GraphicsDevice.Clear(Color.Black);
 
             _spriteBatch.Begin();
+            _spriteBatch.Draw(background, new Rectangle(0,0,1780,980), Color.White);
             Player.Draw(_spriteBatch);
             Ennemi.Draw(_spriteBatch);
             _spriteBatch.End();

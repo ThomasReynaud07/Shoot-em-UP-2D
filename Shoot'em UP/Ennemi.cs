@@ -25,7 +25,7 @@ namespace Shoot_em_UP
         private ContentManager _content;
 
         private double _ennemyTimer;
-        private double _interval = 1.0;
+        private double _interval = 0.5;
 
 
         public Ennemi(int health, string name, GraphicsDevice graphicsDevice, ContentManager contentManager)
@@ -37,7 +37,7 @@ namespace Shoot_em_UP
 
             _position = new Vector2(
                 _random.Next(80, 900),
-                -10
+                -200
                 );
             _texture = _content.Load<Texture2D>("Ennemie");
         }
@@ -47,7 +47,7 @@ namespace Shoot_em_UP
 
             if (_ennemyTimer >= _interval)
             {
-                _position.Y += 5;
+                _position.Y += 10;
 
                 _ennemyTimer = 0;
             }
@@ -56,11 +56,12 @@ namespace Shoot_em_UP
 
         public void Draw(SpriteBatch spriteBatch)
         { 
-            Rectangle ennemi = new Rectangle((int)_position.X, (int)_position.Y, 150, 200);
+            Rectangle ennemi = new Rectangle((int)_position.X, (int)_position.Y, 500, 200);
          
             spriteBatch.Draw(_texture, ennemi, Color.White);
             
         }
+       
       
     }
 }
