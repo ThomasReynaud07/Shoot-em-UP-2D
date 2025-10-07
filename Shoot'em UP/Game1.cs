@@ -44,7 +44,7 @@ namespace Shoot_em_UP
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
                 Exit();
 
-            Player.Update();
+            Player.Update(gameTime);
             Ennemi.Update(gameTime);
             // TODO: Add your update logic here
 

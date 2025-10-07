@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "E:\\2e\\POO\\Shoot-em-UP-2D\\Shoot\u0027em UP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F709F99B-0DEE-4C45-8B3A-CAEF2693554D}|Shoot\u0027em UP.csproj|e:\\2e\\poo\\shoot-em-up-2d\\shoot\u0027em up\\ennemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F709F99B-0DEE-4C45-8B3A-CAEF2693554D}|Shoot\u0027em UP.csproj|solutionrelative:ennemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F709F99B-0DEE-4C45-8B3A-CAEF2693554D}|Shoot\u0027em UP.csproj|e:\\2e\\poo\\shoot-em-up-2d\\shoot\u0027em up\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F709F99B-0DEE-4C45-8B3A-CAEF2693554D}|Shoot\u0027em UP.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F709F99B-0DEE-4C45-8B3A-CAEF2693554D}|Shoot\u0027em UP.csproj|e:\\2e\\poo\\shoot-em-up-2d\\shoot\u0027em up\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F709F99B-0DEE-4C45-8B3A-CAEF2693554D}|Shoot\u0027em UP.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F709F99B-0DEE-4C45-8B3A-CAEF2693554D}|Shoot\u0027em UP.csproj|e:\\2e\\poo\\shoot-em-up-2d\\shoot\u0027em up\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F709F99B-0DEE-4C45-8B3A-CAEF2693554D}|Shoot\u0027em UP.csproj|solutionrelative:bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F709F99B-0DEE-4C45-8B3A-CAEF2693554D}|Shoot\u0027em UP.csproj|e:\\2e\\poo\\shoot-em-up-2d\\shoot\u0027em up\\ennemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F709F99B-0DEE-4C45-8B3A-CAEF2693554D}|Shoot\u0027em UP.csproj|solutionrelative:ennemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F709F99B-0DEE-4C45-8B3A-CAEF2693554D}|Shoot\u0027em UP.csproj|e:\\2e\\poo\\shoot-em-up-2d\\shoot\u0027em up\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F709F99B-0DEE-4C45-8B3A-CAEF2693554D}|Shoot\u0027em UP.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F709F99B-0DEE-4C45-8B3A-CAEF2693554D}|Shoot\u0027em UP.csproj|e:\\2e\\poo\\shoot-em-up-2d\\shoot\u0027em up\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F709F99B-0DEE-4C45-8B3A-CAEF2693554D}|Shoot\u0027em UP.csproj|solutionrelative:bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F709F99B-0DEE-4C45-8B3A-CAEF2693554D}|Shoot\u0027em UP.csproj|e:\\2e\\poo\\shoot-em-up-2d\\shoot\u0027em up\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,43 +30,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Bullet.cs",
               "DocumentMoniker": "E:\\2e\\POO\\Shoot-em-UP-2D\\Shoot\u0027em UP\\Bullet.cs",
               "RelativeDocumentMoniker": "Bullet.cs",
               "ToolTip": "E:\\2e\\POO\\Shoot-em-UP-2D\\Shoot\u0027em UP\\Bullet.cs",
               "RelativeToolTip": "Bullet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T14:28:30.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Ennemi.cs",
               "DocumentMoniker": "E:\\2e\\POO\\Shoot-em-UP-2D\\Shoot\u0027em UP\\Ennemi.cs",
               "RelativeDocumentMoniker": "Ennemi.cs",
               "ToolTip": "E:\\2e\\POO\\Shoot-em-UP-2D\\Shoot\u0027em UP\\Ennemi.cs",
               "RelativeToolTip": "Ennemi.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwDgAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T12:41:51.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Player.cs",
               "DocumentMoniker": "E:\\2e\\POO\\Shoot-em-UP-2D\\Shoot\u0027em UP\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
               "ToolTip": "E:\\2e\\POO\\Shoot-em-UP-2D\\Shoot\u0027em UP\\Player.cs",
               "RelativeToolTip": "Player.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAQwDkAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T11:21:11.068Z",
               "EditorCaption": ""
@@ -79,7 +79,7 @@
               "RelativeDocumentMoniker": "Game1.cs",
               "ToolTip": "E:\\2e\\POO\\Shoot-em-UP-2D\\Shoot\u0027em UP\\Game1.cs",
               "RelativeToolTip": "Game1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowC8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T12:05:28.618Z",
               "EditorCaption": ""

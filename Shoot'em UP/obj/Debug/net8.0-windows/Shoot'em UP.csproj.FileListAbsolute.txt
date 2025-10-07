@@ -30,3 +30,36 @@ E:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\Content\mainPlayer
 E:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\Content\MainCara.xnb
 E:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\Content\Ennemie.xnb
 E:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\Content\background.xnb
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\Content\background.xnb
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\Content\Ennemie.xnb
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\Content\goofya.xnb
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\Content\MainCara.xnb
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\Content\mainPlayer.xnb
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\Shoot'em UP.exe
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\Shoot'em UP.deps.json
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\Shoot'em UP.runtimeconfig.json
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\Shoot'em UP.dll
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\Shoot'em UP.pdb
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\MonoGame.Framework.dll
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\SharpDX.dll
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\SharpDX.Direct2D1.dll
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\SharpDX.Direct3D11.dll
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\SharpDX.Direct3D9.dll
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\SharpDX.DXGI.dll
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\SharpDX.Mathematics.dll
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\SharpDX.MediaFoundation.dll
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\SharpDX.XAudio2.dll
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\SharpDX.XInput.dll
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\obj\Debug\net8.0-windows\Shoot'em UP.csproj.AssemblyReference.cache
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\obj\Debug\net8.0-windows\Shoot'em UP.GeneratedMSBuildEditorConfig.editorconfig
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\obj\Debug\net8.0-windows\Shoot'em UP.AssemblyInfoInputs.cache
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\obj\Debug\net8.0-windows\Shoot'em UP.AssemblyInfo.cs
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\obj\Debug\net8.0-windows\Shoot'em UP.csproj.CoreCompileInputs.cache
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\obj\Debug\net8.0-windows\Shoot'em UP.sourcelink.json
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\obj\Debug\net8.0-windows\Shoot'em.9F2E4D66.Up2Date
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\obj\Debug\net8.0-windows\Shoot'em UP.dll
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\obj\Debug\net8.0-windows\refint\Shoot'em UP.dll
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\obj\Debug\net8.0-windows\Shoot'em UP.pdb
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\obj\Debug\net8.0-windows\Shoot'em UP.genruntimeconfig.cache
+F:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\obj\Debug\net8.0-windows\ref\Shoot'em UP.dll
+E:\2e\POO\Shoot-em-UP-2D\Shoot'em UP\bin\Debug\net8.0-windows\Content\tung.xnb

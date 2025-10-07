@@ -1,6 +1,7 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/Ennemie.png","E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/bin/Windows/Content/Ennemie.xnb","TextureProcessor","Texture2DContent",304940,3000085,0.2211334
-"E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/goofya.png","E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/bin/Windows/Content/goofya.xnb","TextureProcessor","Texture2DContent",79032,2196085,0.2074312
-"E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/Grass_Sample.webp","E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/bin/Windows/Content/background.xnb","TextureProcessor","Texture2DContent",2102,901205,0.4907942
-"E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/MainCara.png","E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/bin/Windows/Content/MainCara.xnb","TextureProcessor","Texture2DContent",43300,201013,0.1516278
-"E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/mainPlayer.png","E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/bin/Windows/Content/mainPlayer.xnb","TextureProcessor","Texture2DContent",21808,291285,0.2920179
+"E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/Ennemie.png","E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/bin/Windows/Content/Ennemie.xnb","TextureProcessor","Texture2DContent",304940,3000085,0.6466564
+"E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/goofya.png","E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/bin/Windows/Content/goofya.xnb","TextureProcessor","Texture2DContent",79032,2196085,0.0854326
+"E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/Grass_Sample.webp","E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/bin/Windows/Content/background.xnb","TextureProcessor","Texture2DContent",2102,901205,0.0730297
+"E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/MainCara.png","E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/bin/Windows/Content/MainCara.xnb","TextureProcessor","Texture2DContent",43300,201013,0.0482143
+"E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/mainPlayer.png","E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/bin/Windows/Content/mainPlayer.xnb","TextureProcessor","Texture2DContent",21808,291285,0.054495
+"E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/tung.png","E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/bin/Windows/Content/tung.xnb","TextureProcessor","Texture2DContent",238654,2359381,0.1503815

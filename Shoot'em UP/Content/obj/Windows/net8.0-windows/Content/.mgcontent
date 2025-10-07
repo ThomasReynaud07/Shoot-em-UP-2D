@@ -9,11 +9,13 @@
     <File>E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/Grass_Sample.webp</File>
     <File>E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/MainCara.png</File>
     <File>E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/mainPlayer.png</File>
+    <File>E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/tung.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File>background.webp</File>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>
