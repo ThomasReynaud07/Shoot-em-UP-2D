@@ -17,7 +17,8 @@ namespace Shoot_em_UP
         private Texture2D _texture;
         private float _speed = 10f; 
 
-        public Vector2 Position => _position; 
+        public Vector2 Position => _position;
+
 
         public Bullet(GraphicsDevice graphicsDevice, ContentManager content, Vector2 position)
         {
@@ -34,9 +35,16 @@ namespace Shoot_em_UP
         public void Draw(SpriteBatch spriteBatch)
         {
             
-            Rectangle bulletRect = new Rectangle((int)_position.X, (int)_position.Y, 100, 200);
+            Rectangle bulletRect = new Rectangle((int)_position.X, (int)_position.Y, 50, 100);
             spriteBatch.Draw(_texture, bulletRect, Color.White);
 
+        }
+        public Rectangle Bounds
+        {
+            get
+            {
+                return new Rectangle((int)_position.X, (int)_position.Y, 100, 200);
+            }
         }
     }
 }

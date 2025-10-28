@@ -4,14 +4,18 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/Ennemie.png</File>
+    <File>C:/Users/pk84vtk/Downloads/Ennemie.png</File>
+    <File>C:/Users/pk84vtk/Downloads/tung.png</File>
+    <File>E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/GameFont.spritefont</File>
     <File>E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/goofya.png</File>
     <File>E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/Grass_Sample.webp</File>
     <File>E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/MainCara.png</File>
     <File>E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/mainPlayer.png</File>
-    <File>E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/tung.png</File>
+    <File>E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/wall.png</File>
   </SourceFiles>
   <DestFiles>
+    <File>Ennemie.png</File>
+    <File>tung.png</File>
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File>background.webp</File>
