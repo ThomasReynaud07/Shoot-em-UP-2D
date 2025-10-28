@@ -7,7 +7,7 @@ namespace Shoot_em_UP
 {
     public class Game1 : Game
     {
-        public static Game1 Instance; // Pour accéder au score depuis EnnemyManager
+        public static Game1 Instance; // Permet d'accéder à l'instance du jeu depuis d'autres classes
 
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
@@ -27,6 +27,7 @@ namespace Shoot_em_UP
             Content.RootDirectory = "Content";
             IsMouseVisible = true;
 
+            // Taille de la fenêtre
             _graphics.PreferredBackBufferWidth = 1780;
             _graphics.PreferredBackBufferHeight = 980;
             _graphics.ApplyChanges();
@@ -34,6 +35,7 @@ namespace Shoot_em_UP
 
         protected override void Initialize()
         {
+            // Création du joueur et du gestionnaire d’ennemis
             Player = new Player(3, "Thomas", GraphicsDevice, Content);
             EnnemiManager = new EnnemyManager(GraphicsDevice, Content, Player);
             base.Initialize();
@@ -56,11 +58,11 @@ namespace Shoot_em_UP
                 Player.Update(gameTime);
                 EnnemiManager.SpawnEnnemy(gameTime);
 
-                // Met à jour les ennemis et récupère le nombre de kills
+                // Mise à jour des ennemis + comptage des kills
                 int kills = EnnemiManager.Update(gameTime, Player.Bullets);
                 if (kills > 0) score += kills * 10;
 
-                // Collision joueur <-> ennemis
+                // Collisions joueur / ennemis
                 for (int i = EnnemiManager.Ennemis.Count - 1; i >= 0; i--)
                 {
                     var ennemi = EnnemiManager.Ennemis[i];
@@ -81,6 +83,7 @@ namespace Shoot_em_UP
             }
             else if (keyState.IsKeyDown(Keys.R))
             {
+                // Redémarre la partie après un game over
                 RestartGame();
             }
 
@@ -92,6 +95,7 @@ namespace Shoot_em_UP
             GraphicsDevice.Clear(Color.Black);
             _spriteBatch.Begin();
 
+            // Fond
             _spriteBatch.Draw(background, new Rectangle(0, 0, 1780, 980), Color.White);
 
             if (!isGameOver)
@@ -99,11 +103,13 @@ namespace Shoot_em_UP
                 Player.Draw(_spriteBatch);
                 EnnemiManager.Draw(_spriteBatch);
 
+                // Ecriture pour le score et la vie
                 _spriteBatch.DrawString(gameFont, $"Vies : {Player.Health}", new Vector2(20, 20), Color.White);
                 _spriteBatch.DrawString(gameFont, $"Score : {score}", new Vector2(20, 60), Color.Yellow);
             }
             else
             {
+                // Écran de fin
                 string text = "GAME OVER\nAppuie sur R pour recommencer";
                 Vector2 size = gameFont.MeasureString(text);
                 Vector2 pos = new Vector2((1780 - size.X) / 2, (980 - size.Y) / 2);
@@ -116,12 +122,13 @@ namespace Shoot_em_UP
 
         private void RestartGame()
         {
+            // Réinitialise la partie
             Player = new Player(3, "Thomas", GraphicsDevice, Content);
             EnnemiManager = new EnnemyManager(GraphicsDevice, Content, Player);
             score = 0;
             isGameOver = false;
         }
 
-        public void AddScore(int value) => score += value;
+        public void AddScore(int value) => score += value; // Méthode pour ajouter du score
     }
 }

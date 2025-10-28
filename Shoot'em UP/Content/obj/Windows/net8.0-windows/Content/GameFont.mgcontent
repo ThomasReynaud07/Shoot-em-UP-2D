@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/GameFont.spritefont</SourceFile>
+  <SourceFile>E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Shoot-em-UP-2D/Shoot'em UP/Content/GameFont.spritefont</SourceFile>
   <SourceTime>2025-10-27T11:25:12+01:00</SourceTime>
-  <DestFile>E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/bin/Windows/Content/GameFont.xnb</DestFile>
-  <DestTime>2025-10-27T11:25:26+01:00</DestTime>
+  <DestFile>E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Shoot-em-UP-2D/Shoot'em UP/Content/bin/Windows/Content/GameFont.xnb</DestFile>
+  <DestTime>2025-10-28T17:12:14+01:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
   <ImporterTime>2025-06-02T12:31:02+02:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>

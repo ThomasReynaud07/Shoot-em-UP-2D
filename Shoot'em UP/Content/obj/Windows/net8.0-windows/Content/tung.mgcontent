@@ -2,8 +2,8 @@
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SourceFile>C:/Users/pk84vtk/Downloads/tung.png</SourceFile>
   <SourceTime>2025-10-27T11:02:52.3308238+01:00</SourceTime>
-  <DestFile>E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Content/bin/Windows/Content/tung.xnb</DestFile>
-  <DestTime>2025-10-27T11:07:30+01:00</DestTime>
+  <DestFile>E:/2e/POO/Shoot-em-UP-2D/Shoot'em UP/Shoot-em-UP-2D/Shoot'em UP/Content/bin/Windows/Content/tung.xnb</DestFile>
+  <DestTime>2025-10-28T17:12:14+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2025-06-02T12:31:02+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
